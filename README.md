@@ -1,5 +1,5 @@
 # ImageMath
-Transformation of images using complex numbers
+Transformation of images using complex numbers. 
 Images can be made into spirals, polar coordinates, wavy patterns and so on. Only the mathematics is the limit.
 
 Youtube video: https://www.youtube.com/watch?v=dY-8LOdUMpo
